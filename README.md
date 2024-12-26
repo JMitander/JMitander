@@ -1,4 +1,0 @@
-# 👋 Hello, I'm John!
-
-
-
